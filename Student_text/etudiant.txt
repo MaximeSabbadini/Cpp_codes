@@ -1,0 +1,5 @@
+Sabbadini	Maxime	13/1/1999	14.000000
+Ocon	Esteban	4/7/1996	14.000000
+Alonso	Fernando	2/5/1990	14.166667
+Ricciardo	Daniel	5/11/1986	13.166667
+Vettel	Sebastian	30/1/1986	14.000000
